@@ -1,5 +1,5 @@
 {
-  "name": "angular-img-lazy-load",
+  "name": "@phagento/angular-img-lazy-load",
   "version": "1.0.0",
   "description": "An angular ng-src drop-in replacement that makes images magically lazy load.",
   "main": "index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://ivancamilov@github.com/simian-lab/angular-img-lazy-load.git"
+    "url": "git+https://ivancamilov@github.com/simian-lab/angular-img-lazy-load.git"
   },
   "keywords": [
     "Angular",
