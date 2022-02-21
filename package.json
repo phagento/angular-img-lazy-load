@@ -1,6 +1,6 @@
 {
   "name": "@phagento/angular-img-lazy-load",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An angular ng-src drop-in replacement that makes images magically lazy load.",
   "main": "index.js",
   "scripts": {
