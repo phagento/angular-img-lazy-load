@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://ivancamilov@github.com/simian-lab/angular-img-lazy-load.git"
+    "url": "git@github.com:phagento/angular-img-lazy-load.git"
   },
   "keywords": [
     "Angular",
@@ -21,9 +21,9 @@
   "author": "Simian <dev@simian.co>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/simian-lab/angular-img-lazy-load/issues"
+    "url": "https://github.com/phagento/angular-img-lazy-load/issues"
   },
-  "homepage": "https://github.com/simian-lab/angular-img-lazy-load",
+  "homepage": "https://github.com/phagento/angular-img-lazy-load",
   "devDependencies": {
     "browser-sync": "^1.5.1",
     "gulp": "^3.8.8",
